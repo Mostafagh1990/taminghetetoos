@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <!-- 1. Road Construction (راهسازی) -->
+  <symbol id="icon-road" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="44" width="32" height="10" rx="5" />
+    <circle cx="15" cy="49" r="1.5" fill="currentColor" />
+    <circle cx="24" cy="49" r="1.5" fill="currentColor" />
+    <circle cx="33" cy="49" r="1.5" fill="currentColor" />
+    <path d="M10 44V31C10 28.8 11.8 27 14 27H35V44" />
+    <path d="M21 27V17H32L35 27" />
+    <path d="M35 31L46 15L56 27" />
+    <path d="M35 38L45 23L52 31" />
+    <path d="M51 29L58 30L59 37C59 40.5 55 43 51 41L48 35Z" />
+    <path d="M4 56H60" />
+  </symbol>
+
+  <!-- 2. Mining (معدنی) -->
+  <symbol id="icon-mining" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 24L22 15L31 19L38 13L48 24" />
+    <path d="M25 24L31 19L39 24" />
+    <path d="M10 24H54L48 42H16L10 24Z" />
+    <path d="M8 24H56" />
+    <path d="M18 33H46" />
+    <circle cx="21" cy="49" r="5" />
+    <circle cx="43" cy="49" r="5" />
+    <path d="M26 48H38" />
+    <path d="M6 56H58" />
+  </symbol>
+
+  <!-- 3. Rail (ریلی) -->
+  <symbol id="icon-rail" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="16" y="12" width="32" height="32" rx="6" />
+    <rect x="22" y="18" width="20" height="10" rx="2" />
+    <path d="M32 18V28" />
+    <circle cx="23" cy="36" r="2" fill="currentColor" />
+    <circle cx="41" cy="36" r="2" fill="currentColor" />
+    <path d="M29 36H35" />
+    <path d="M26 12L32 7L38 12" />
+    <path d="M22 44L14 56" />
+    <path d="M42 44L50 56" />
+    <path d="M19 49H45" />
+    <path d="M16 54H48" />
+  </symbol>
+
+  <!-- 4. Heavy Trucks (انواع کامیون های بنز و آمیکو) -->
+  <symbol id="icon-truck" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="18" width="30" height="22" rx="2" />
+    <path d="M16 18V40" />
+    <path d="M26 18V40" />
+    <path d="M36 23H49L56 33V44H36V23Z" />
+    <path d="M41 28H48L52 34H41V28Z" />
+    <path d="M6 44H11" />
+    <path d="M23 44H41" />
+    <circle cx="17" cy="46" r="6" />
+    <circle cx="17" cy="46" r="2" fill="currentColor" />
+    <circle cx="47" cy="46" r="6" />
+    <circle cx="47" cy="46" r="2" fill="currentColor" />
+    <path d="M4 56H60" />
+  </symbol>
+</svg>
